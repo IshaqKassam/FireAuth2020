@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FireAuth2020</string>
+    <string name="already_registered_sign_in_here">Already registered? Sign in here</string>
+    <string name="register">Register</string>
+    <string name="enter_your_email_address_here">Enter your email address here</string>
+    <string name="enter_your_password_here">enter your password here</string>
+</resources>
